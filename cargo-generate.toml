@@ -1,0 +1,8 @@
+[template]
+exclude = [
+  "cliff.toml",
+  ".pre-commit-config.yaml",
+  ".github/workflows/*.yml",
+  "deny.toml",
+  "_typos.toml",
+]
